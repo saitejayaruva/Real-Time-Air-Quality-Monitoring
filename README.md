@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 This project focuses on real-time air quality monitoring, analysis, visualization, and forecasting. It collects air quality data, processes it, and predicts future trends using machine learning models. The project also includes an interactive Power BI dashboard for data visualization.
+<img src="Real-Time-Air-Quality-Monitoring.jpg" width="850" height="550" alt="Real-Time-Air-Quality-Monitoring">
+
 
 ## 📂 Project Structure
 - `Fetching_data.py` - Script to fetch real-time air quality data from APIs.
@@ -55,12 +57,6 @@ python air_quality_forecast.py
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## 📢 Acknowledgments
-- Data sourced from [appropriate source]
-- Inspired by environmental data analytics initiatives
 
 ---
 
