@@ -37,6 +37,7 @@ python air_quality_forecast.py
 
 ### 5️⃣ Visualize Results
 - Open `forecast_plot.png` to view the forecasted air quality trends.
+<img src="/github.com/saitejayaruva/Real-Time-Air-Quality-Monitoring/blob/main/forecast_plot.png" width="850" height="550" alt="Forecast Plot">
 - Use `Air_Pollution_Report.pbix` in Power BI for detailed analysis.
 
 ## 🛠️ Technologies Used
